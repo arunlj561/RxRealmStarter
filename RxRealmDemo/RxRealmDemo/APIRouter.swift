@@ -18,8 +18,8 @@
         
         
         
-        static let baseURLString = "http://vovoearn.mitroztech.com/api"
-        //static let baseURLString = "http://192.168.1.133/VOVO"
+
+        //static let baseURLString = "http://192.168.1.133/"
         
         var method: HTTPMethod {
             switch self {
