@@ -19,7 +19,7 @@
         
         
 
-        //static let baseURLString = "http://192.168.1.133/"
+        static let baseURLString = "http://192.168.1.133/"
         
         var method: HTTPMethod {
             switch self {
